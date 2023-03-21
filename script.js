@@ -133,6 +133,7 @@ numericCharacters= prompt("How many characters do you want in your password? Cho
   }
 
   
+  
 
 // Function for getting a random element from an array
 function getRandomnumericCharacters( ) {
